@@ -1,0 +1,10 @@
+C:\Users\villa\source\repos\Project 2 - Calculator\Project 2 - Calculator\bin\Debug\Project 2 - Calculator.exe.config
+C:\Users\villa\source\repos\Project 2 - Calculator\Project 2 - Calculator\bin\Debug\Project 2 - Calculator.exe
+C:\Users\villa\source\repos\Project 2 - Calculator\Project 2 - Calculator\bin\Debug\Project 2 - Calculator.pdb
+C:\Users\villa\source\repos\Project 2 - Calculator\Project 2 - Calculator\obj\Debug\Project 2 - Calculator.csproj.AssemblyReference.cache
+C:\Users\villa\source\repos\Project 2 - Calculator\Project 2 - Calculator\obj\Debug\Project_2___Calculator.Properties.Resources.resources
+C:\Users\villa\source\repos\Project 2 - Calculator\Project 2 - Calculator\obj\Debug\Project 2 - Calculator.csproj.GenerateResource.cache
+C:\Users\villa\source\repos\Project 2 - Calculator\Project 2 - Calculator\obj\Debug\Project 2 - Calculator.csproj.CoreCompileInputs.cache
+C:\Users\villa\source\repos\Project 2 - Calculator\Project 2 - Calculator\obj\Debug\Project 2 - Calculator.exe
+C:\Users\villa\source\repos\Project 2 - Calculator\Project 2 - Calculator\obj\Debug\Project 2 - Calculator.pdb
+C:\Users\villa\source\repos\Project 2 - Calculator\Project 2 - Calculator\obj\Debug\Project_2___Calculator.FrmCalculator.resources
